@@ -5,8 +5,7 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
-      target='_blank'
+      href='https://github.com/'
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label='View source on GitHub'
